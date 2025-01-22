@@ -1,8 +1,8 @@
 package geo
 
 import (
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/internal/length"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/internal/length"
 )
 
 // Length returns the length of the boundary of the geometry

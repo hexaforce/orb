@@ -1,4 +1,4 @@
-# orb/planar [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/planar)
+# orb/planar [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/planar)
 
 The geometries defined in the `orb` package are generic 2d geometries.
 Depending on what projection they're in, e.g. lon/lat or flat on the plane,

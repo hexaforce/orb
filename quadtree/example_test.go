@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/quadtree"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/quadtree"
 )
 
 func ExampleQuadtree_Find() {

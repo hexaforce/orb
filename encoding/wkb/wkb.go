@@ -9,8 +9,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/internal/wkbcommon"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/encoding/internal/wkbcommon"
 )
 
 var (

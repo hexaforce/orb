@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb/maptile"
-	"github.com/paulmach/orb/project"
+	"github.com/hexaforce/orb/maptile"
+	"github.com/hexaforce/orb/project"
 )
 
 func TestPowerOfTwoProjection(t *testing.T) {

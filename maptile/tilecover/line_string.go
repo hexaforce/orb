@@ -3,8 +3,8 @@ package tilecover
 import (
 	"math"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/maptile"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/maptile"
 )
 
 // LineString creates a tile cover for the line string.

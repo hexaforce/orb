@@ -3,7 +3,7 @@ package length
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
+	"github.com/hexaforce/orb"
 )
 
 // Length returns the length of the boundary of the geometry

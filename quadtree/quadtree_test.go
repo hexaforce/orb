@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/planar"
 )
 
 func TestNew(t *testing.T) {

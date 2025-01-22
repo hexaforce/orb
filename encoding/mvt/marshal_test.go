@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/maptile"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/geojson"
+	"github.com/hexaforce/orb/maptile"
 )
 
 func TestMarshalUnmarshalGzipped_Full(t *testing.T) {

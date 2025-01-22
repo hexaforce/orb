@@ -3,7 +3,7 @@ package clip
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/hexaforce/orb"
 )
 
 func TestGeometry(t *testing.T) {

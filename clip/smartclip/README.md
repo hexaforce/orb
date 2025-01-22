@@ -1,4 +1,4 @@
-# orb/clip/smartclip [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/clip/smartclip)
+# orb/clip/smartclip [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/clip/smartclip)
 
 This package extends the clip functionality to handle partial 2d geometries. The input polygon
 rings need to only intersect the bound. The algorithm will use that, plus the orientation, to

@@ -1,7 +1,7 @@
-# orb/geojson [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/geojson)
+# orb/geojson [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/geojson)
 
 This package **encodes and decodes** [GeoJSON](http://geojson.org/) into Go structs
-using the geometries in the [orb](https://github.com/paulmach/orb) package.
+using the geometries in the [orb](https://github.com/hexaforce/orb) package.
 
 Supports both the [json.Marshaler](https://pkg.go.dev/encoding/json#Marshaler) and
 [json.Unmarshaler](https://pkg.go.dev/encoding/json#Unmarshaler) interfaces.
@@ -81,7 +81,7 @@ This can be enabled with something like this:
 ```go
 import (
   jsoniter "github.com/json-iterator/go"
-  "github.com/paulmach/orb"
+  "github.com/hexaforce/orb"
 )
 
 var c = jsoniter.Config{

@@ -1,8 +1,8 @@
 package mvt
 
 import (
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/clip"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/clip"
 )
 
 var (

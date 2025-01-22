@@ -1,4 +1,4 @@
-# encoding/wkt [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/encoding/wkt)
+# encoding/wkt [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/encoding/wkt)
 
 This package provides encoding and decoding of [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry)
 data. The interface is defined as:

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/planar"
-	"github.com/paulmach/orb/quadtree"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/geojson"
+	"github.com/hexaforce/orb/planar"
+	"github.com/hexaforce/orb/quadtree"
 )
 
 type CentroidPoint struct {

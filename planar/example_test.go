@@ -3,8 +3,8 @@ package planar_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/planar"
 )
 
 func ExampleArea() {

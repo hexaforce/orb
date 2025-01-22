@@ -1,4 +1,4 @@
-# orb/resample [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/resample)
+# orb/resample [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/resample)
 
 Package `resample` has a couple functions for resampling line geometry
 into more or less evenly spaces points.

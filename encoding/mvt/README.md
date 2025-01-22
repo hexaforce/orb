@@ -1,4 +1,4 @@
-# encoding/mvt [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/encoding/mvt)
+# encoding/mvt [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/encoding/mvt)
 
 Package mvt provides functions for encoding and decoding
 [Mapbox Vector Tiles](https://www.mapbox.com/vector-tiles/specification/).
@@ -35,7 +35,7 @@ be simple/clean. e.g. lines that are not self intersecting and polygons that are
 This library does not do anything to validate the geometry, it just encodes what you give it, so it defaults to v1.
 I've seen comments from Mapbox about this and they only want you to claim your library is a v2 encoder if it does cleanup/validation.
 
-However, if you know your geometry is simple/clean you can change the [layer version](https://pkg.go.dev/github.com/paulmach/orb/encoding/mvt#Layer) manually.
+However, if you know your geometry is simple/clean you can change the [layer version](https://pkg.go.dev/github.com/hexaforce/orb/encoding/mvt#Layer) manually.
 
 ## Encoding example
 

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
-	"github.com/paulmach/orb/resample"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/planar"
+	"github.com/hexaforce/orb/resample"
 )
 
 func BenchmarkToMorePoints(b *testing.B) {

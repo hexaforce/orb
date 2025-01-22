@@ -5,8 +5,8 @@ import (
 	"database/sql/driver"
 	"encoding/binary"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/internal/wkbcommon"
+	"github.com/hexaforce/orb"
+	"github.com/hexaforce/orb/encoding/internal/wkbcommon"
 )
 
 var (

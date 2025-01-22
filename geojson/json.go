@@ -9,7 +9,7 @@ import "encoding/json"
 //
 //	import (
 //	  jsoniter "github.com/json-iterator/go"
-//	  "github.com/paulmach/orb"
+//	  "github.com/hexaforce/orb"
 //	)
 //
 //	var c = jsoniter.Config{
@@ -33,7 +33,7 @@ var CustomJSONMarshaler interface {
 //
 //	import (
 //	  jsoniter "github.com/json-iterator/go"
-//	  "github.com/paulmach/orb"
+//	  "github.com/hexaforce/orb"
 //	)
 //
 //	var c = jsoniter.Config{

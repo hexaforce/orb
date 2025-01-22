@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/paulmach/orb"
+	"github.com/hexaforce/orb"
 )
 
 // Marshal returns a WKT representation of the geometry.

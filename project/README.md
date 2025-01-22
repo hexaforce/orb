@@ -1,4 +1,4 @@
-# orb/project [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/project)
+# orb/project [![Godoc Reference](https://pkg.go.dev/badge/github.com/hexaforce/orb)](https://pkg.go.dev/github.com/hexaforce/orb/project)
 
 Package `project` has helper function for projecting geometries.
 
